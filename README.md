@@ -14,6 +14,7 @@ Sammlung von Claude-Code-Skills. Jeder Skill liegt unter `.claude/skills/<name>/
 | `slides` | ebenda | HTML-Präsentationen mit Chart.js |
 | `task-observer` | [rebelytics/one-skill-to-rule-them-all](https://github.com/rebelytics/one-skill-to-rule-them-all) (CC BY 4.0, Eoghan Henn und Mitwirkende) | Beobachtet Arbeitssitzungen und schlägt Verbesserungen für bestehende und neue Skills vor |
 | `find-skills` | [vercel-labs/skills](https://github.com/vercel-labs/skills) (MIT) | Sucht passende Skills auf skills.sh und hilft beim Installieren |
+| `tiktok-autopost` | eigener Skill | Postet fertige Clips mit den gespeicherten Standard-Einstellungen auf TikTok (über den Videos-Connector) |
 
 Hinweis zu `ui-ux-pro-max`: Die Suchskripte brauchen Python 3 und werden vom Repo-Root aus aufgerufen (`.claude/skills/ui-ux-pro-max/scripts/search.py`).
 
